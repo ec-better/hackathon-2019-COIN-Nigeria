@@ -1,7 +1,11 @@
 name: env_better
 channels:
-  - terradue
   - conda-forge
+  - terradue
 dependencies:
+  - cioppy
   - gdal
-
+  - geopandas
+  - numpy
+  - matplotlib
+  - pillow
