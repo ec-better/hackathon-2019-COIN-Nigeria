@@ -8,5 +8,4 @@ dependencies:
   - gdal
   - geopandas
   - numpy
-  - pillow
   - matplotlib
