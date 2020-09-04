@@ -3,8 +3,5 @@ channels:
   - terradue
   - conda-forge
 dependencies:
-  - cioppy
   - gdal
-  - geopandas
-  - numpy
 
